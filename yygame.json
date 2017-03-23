@@ -1,0 +1,30 @@
+{
+    "_id" : ObjectId("58d0b8a4b4851837d6c1f2c1"),
+    "name" : "长南村广场",
+    "pic" : "",
+    "desc" : "这里有许多村民在此休息.",
+    "is_safety" : true,
+    "refresh" : 3,
+    "exit" : {
+        "east" : "",
+        "south" : "",
+        "western" : "",
+        "north" : ""
+    },
+    "ops" : [
+        {
+            "name" : "未命名",
+            "condition" : "",
+            "enevt" : [],
+            "task" : []
+        }
+    ],
+    "events" : {
+        "create" : [],
+        "view" : [],
+        "in" : [],
+        "leave" : [],
+        "second" : []
+    },
+    "npc" : []
+}
