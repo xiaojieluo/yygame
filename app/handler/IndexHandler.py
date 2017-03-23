@@ -2,7 +2,7 @@
 # coding=utf-8
 
 import tornado.web
-from .BaseHandler import BaseHandler
+from . import BaseHandler
 
 class index(BaseHandler):
     def get(self):
