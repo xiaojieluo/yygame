@@ -8,7 +8,6 @@ from tornado.options import define, options
 
 from app import route
 from app.setting import config
-# print(type(config))
 define("port", default=8888, help="run on the given port", type=int)
 
 def make_app():
