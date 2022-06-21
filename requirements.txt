@@ -36,7 +36,7 @@ Markups==2.0.0
 MarkupSafe==0.23
 mysql-connector-python==2.1.4
 nose==1.3.7
-numpy==1.12.0
+numpy==1.22.0
 olefile==0.43
 packaging==16.8
 parsel==1.1.0
